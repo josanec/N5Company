@@ -1,0 +1,6 @@
+C:\Users\jsand\OneDrive\Documentos\Visual Studio 2019\Projects\WebApi_N5Company\N5CompanyData\bin\Debug\N5CompanyData.dacpac
+C:\Users\jsand\OneDrive\Documentos\Visual Studio 2019\Projects\WebApi_N5Company\N5CompanyData\bin\Debug\N5CompanyData.dll
+C:\Users\jsand\OneDrive\Documentos\Visual Studio 2019\Projects\WebApi_N5Company\N5CompanyData\bin\Debug\N5CompanyData.pdb
+C:\Users\jsand\OneDrive\Documentos\Visual Studio 2019\Projects\WebApi_N5Company\N5CompanyData\obj\Debug\N5CompanyData.sqlproj.AssemblyReference.cache
+C:\Users\jsand\OneDrive\Documentos\Visual Studio 2019\Projects\WebApi_N5Company\N5CompanyData\obj\Debug\N5CompanyData.dll
+C:\Users\jsand\OneDrive\Documentos\Visual Studio 2019\Projects\WebApi_N5Company\N5CompanyData\obj\Debug\N5CompanyData.pdb
